@@ -4,13 +4,17 @@ public class HP3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int pencils = 534;
-		int students = 30;
-		int pencilsPerStudent = pencils/students;
-		System.out.println(pencilsPerStudent);
-		int pencilsLeft = pencils%students;
-		System.out.println(pencilsLeft );
+		int x =0;
+		int y =0;
+
+		for(x=1;x<=10;x++) {
+		for(y=1;y<=10;y++) {
+		if(4*x+5*y==60){
+		System.out.println("("+x+","+y+")");
 				
 	}
 
+}
+}
+	}
 }
