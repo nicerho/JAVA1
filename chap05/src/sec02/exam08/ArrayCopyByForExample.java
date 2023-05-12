@@ -13,5 +13,6 @@ public class ArrayCopyByForExample {
 			System.out.println(newintarray[i]);
 		}
 	}
+	
 
 }
