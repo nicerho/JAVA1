@@ -17,4 +17,5 @@ public class FieldInitValueExample {
 		System.out.println(a.referenceField);
 	}
 
+
 }

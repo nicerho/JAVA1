@@ -7,11 +7,7 @@ public class Exercise04 {
 		for(int I=0;I<array.length;I++) {
          if(max<array[I])
         	 max=array[I];
-<<<<<<< Updated upstream
-		}//ㅁ
-=======
-		}//ㅁㄴㅇㄴㅁㅇㄴㅁㅇㅁㄴㅇㄴㅁㅇㅁㄴㅇㄴㅁㅇ나머오러ㅏㄴㅇ모러ㅏㅗㅓ낭ㄹ
->>>>>>> Stashed changes
+		}//ㅁㄴㅇㄴㅁㅇㄴㅁㅇㅁㄴㅇㄴㅁㅇㅁㄴㅇㄴㅁㅇ
 		System.out.println("max: " + max);
 	}
 }
