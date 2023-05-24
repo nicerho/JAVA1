@@ -16,7 +16,8 @@ public class LogicalOperatorExmaple {
 			System.out.println("2또는 3의 배수 이군요");
 		if((value%2==0)||(value%3==0))
 			System.out.println("2또는 3의 배수 이군요");
-		
+		boolean[] array = {};
+		System.out.print(array);
 		
 		
 	}
