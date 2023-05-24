@@ -7,7 +7,7 @@ public class Exercise04 {
 		for(int I=0;I<array.length;I++) {
          if(max<array[I])
         	 max=array[I];
-		}//ㅁㄴㅇㄴㅁㅇㄴㅁㅇㅁㄴㅇㄴㅁㅇ
+		}//ㅁㄴㅇㄴㅁㅇㄴㅁㅇㅁㄴㅇㄴㅁㅇㅁㄴㅇㄴㅁㅇ
 		System.out.println("max: " + max);
 	}
 }
