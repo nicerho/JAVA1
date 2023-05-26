@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="sec06.exam01.SnowTire"/>
+<fullyQualifiedTypeName name="sec04.exam01.Calculator"/>
+<fullyQualifiedTypeName name="sec06.exam02.hankook.Tire"/>
+<fullyQualifiedTypeName name="sec06.exam02.hankook.SnowTire"/>
+<fullyQualifiedTypeName name="sec05.exam02.Calculator"/>
+<fullyQualifiedTypeName name="sec06.exam02.kumho.Tire"/>
+<fullyQualifiedTypeName name="sec06.exam03package1.B"/>
+<fullyQualifiedTypeName name="sec06.exam04.package1.A"/>
+<fullyQualifiedTypeName name="sec06.exam05package1.A"/>
 </qualifiedTypeNameHistroy>

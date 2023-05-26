@@ -7,7 +7,7 @@ public class SingletonExample {
 		//Singleton x = new Singleton(); 
 		Singleton x =  Singleton.getInstance();
 		Singleton y =  Singleton.getInstance();
-	
+		
 	if(x == y) {
 		System.out.println("same");
 	} else {
