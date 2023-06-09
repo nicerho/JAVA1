@@ -13,4 +13,6 @@
 <fullyQualifiedTypeName name="sec01.exam07.pack01.A"/>
 <fullyQualifiedTypeName name="sec02.exam04.DriverExample"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="sec01.exam03.A.B"/>
+<fullyQualifiedTypeName name="sec02.exam04.Button.OnClickListener"/>
 </qualifiedTypeNameHistroy>
