@@ -12,7 +12,12 @@
 <fullyQualifiedTypeName name="sec06.exam05package1.A"/>
 <fullyQualifiedTypeName name="sec01.exam07.pack01.A"/>
 <fullyQualifiedTypeName name="sec02.exam04.DriverExample"/>
-<fullyQualifiedTypeName name="sec01.exam03.A.B"/>
 <fullyQualifiedTypeName name="sec02.exam04.Button.OnClickListener"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="test.A.C"/>
+<fullyQualifiedTypeName name="sec01.exam03.A.B"/>
+<fullyQualifiedTypeName name="test.A.B"/>
+<fullyQualifiedTypeName name="test.Button.OnClickListner"/>
+<fullyQualifiedTypeName name="test2.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="test3.Button.Ocl"/>
 </qualifiedTypeNameHistroy>

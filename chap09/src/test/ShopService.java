@@ -7,8 +7,6 @@ public final class ShopService {
 	public void setI(int i) {
 		this.i = i;
 	}
-	private static int i;
-	private ShopService() {
-		
-	}
+	private static char i;
+	
 }
